@@ -1,6 +1,6 @@
-var clientId = '<YOUR CLIENT ID HERE>'; 
-var redirectURI = '<YOUR REDIRECT URL HERE>';
-var scope = 'user_read+chat_login';
+var clientId = '6vj4wnfks6x0ihv6fgmtn9js73g1an'; 
+var redirectURI = 'https://tuadmin-pubsub-javascript-sample-gx4j96php7r-5500.githubpreview.dev/index.html';
+var scope = 'bits:read+channel:read:subscriptions';
 var ws;
 
 function parseFragment(hash) {
